@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.input {
+  height: 50rpx;
+  width: 400rpx;
+  margin-top: 10rpx;
+  border: 1rpx solid #dadbde;
+  padding: 12rpx 18rpx;
+  border-radius: 8rpx;
+  font-size: 30rpx;
+  color: #303133;
+}
+.uni-forms-item {
+  width: 200rpx;
+  height: 100rpx;
+  margin: 20rpx 100rpx;
+}
+.uni-forms-item .time {
+  width: 400rpx;
+  line-height: 70rpx;
+}
+

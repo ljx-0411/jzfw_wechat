@@ -1,0 +1,212 @@
+{
+	"pages": [ 
+		//pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+		    "path" : "pages/login/login",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "家政服务首页"
+			}
+		},
+	
+		
+		{
+			"path": "pages/categoryService/categoryService",
+			"style": {
+				"navigationBarTitleText": "服务分类"
+			}
+		},
+		
+		{
+			"path": "pages/order/order",
+			"style": {
+				"navigationBarTitleText": "我的订单"
+			}
+		},
+		
+		{
+			"path": "pages/user/user",
+			"style": {
+				"navigationBarTitleText": "我的"
+			}
+		}
+	    
+		
+        ,{
+            "path" : "pages/register/register",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/productsDetails/productsDetails",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/orderList/orderList",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+		,{
+		    "path" : "pages/addAddress/addAddress",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/address/address",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+        ,{
+            "path" : "pages/userface/userface",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+		,{
+		    "path" : "pages/account/account",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+        ,{
+            "path" : "pages/orderDetail/orderDetail",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/userEdit/userEdit",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/inforDetail/inforDetail",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+		
+        
+        ,{
+            "path" : "pages/empOrder/empOrder",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/empuser/empuser",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/accountDetail/accountDetail",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/userAccountDetail/userAccountDetail",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "家政服务小程序",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	 "tabBar": {
+	    "color": "#8d8d8d",
+	    "selectedColor": "#FD5554",
+	    "backgroundColor": "#fff",
+	    "list": [
+	      {
+	        "iconPath": "./static/img/shouye_1.png",
+	        "selectedIconPath": "./static/img/shouye.png",
+	        "pagePath": "pages/index/index",
+	        "text": "首页"
+	      },
+	      {
+	        "iconPath": "./static/img/fenlei.png",
+	        "selectedIconPath": "./static/img/fenlei_1.png",
+	        "pagePath": "pages/categoryService/categoryService",
+	        "text": "服务分类"
+	      },
+	    
+	      {
+	        "iconPath": "./static/img/dingdan.png",
+	        "selectedIconPath": "./static/img/dingdan_1.png",
+	        "pagePath": "pages/order/order",
+	        "text": "订单中心"
+	      },
+	      {
+	        "iconPath": "./static/img/gerenzhongxin-zhihui.png",
+	        "selectedIconPath": "./static/img/gerenzhongxin.png",
+	        "pagePath": "pages/user/user",
+	        "text": "我的"
+	      }
+	    ]
+	  },
+	"uniIdRouter": {}
+}

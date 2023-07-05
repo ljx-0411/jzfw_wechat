@@ -1,0 +1,1 @@
+<view><block wx:for="{{$root.l0}}" wx:for-item="item" wx:for-index="__i0__" wx:key="id"><uni-card vue-id="{{'e4ef36fc-1-'+__i0__}}" bind:__l="__l" vue-slots="{{['default']}}"><view class="time">{{item.f0}}</view><view class="content"><text class="type">{{item.$orig.type}}</text><text class="money">{{"+"+item.$orig.transferMoney}}</text></view></uni-card></block></view>

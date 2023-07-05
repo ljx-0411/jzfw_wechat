@@ -1,0 +1,27 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.box {
+  padding: 200rpx 100rpx;
+}
+.box .input {
+  margin-top: 20rpx;
+  width: 400rpx;
+  height: 40rpx;
+  margin-top: 20rpx;
+  border: 1rpx solid #dadbde;
+  padding: 12rpx 18rpx;
+  border-radius: 8rpx;
+  font-size: 28rpx;
+  color: #303133;
+}
+.box .button {
+  margin-top: 200rpx;
+  width: 100%;
+  height: 100rpx;
+  background-color: #FD5554;
+  color: #fff;
+  text-align: center;
+  border-radius: 8rpx;
+}
+

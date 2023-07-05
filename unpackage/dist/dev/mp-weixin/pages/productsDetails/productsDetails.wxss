@@ -1,0 +1,45 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.proDatail {
+  color: #333;
+}
+.proDatail .photo image {
+  width: 100%;
+}
+.proDatail .content {
+  margin-top: 20rpx;
+  padding: 5rpx 10rpx;
+}
+.proDatail .content .name {
+  font-size: 40rpx;
+}
+.proDatail .content .price text {
+  color: #FD5554;
+}
+.proDatail .content .descrip {
+  margin: 10rpx 0;
+  text-indent: 2em;
+  font-size: 28rpx;
+}
+.proDatail .content .cate {
+  text-align: right;
+  margin-bottom: 100rpx;
+}
+.proDatail .content .cate ._img {
+  margin-top: 10rpx;
+  margin-left: 10rpx;
+  width: 40rpx;
+  height: 40rpx;
+}
+.goods-carts {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  left: 0;
+  right: 0;
+  left: 0px;
+  right: 0px;
+  bottom: 0;
+}
+

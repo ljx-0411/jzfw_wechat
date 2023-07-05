@@ -1,0 +1,1 @@
+<view><view class="box"><text>充值金额：</text><input class="input" type="text" data-event-opts="{{[['input',[['__set_model',['','money','$event',[]]]]]]}}" value="{{money}}" bindinput="__e"/><button data-event-opts="{{[['tap',[['recharge',['$event']]]]]}}" class="button" bindtap="__e">确认充值</button></view></view>

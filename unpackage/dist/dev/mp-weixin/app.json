@@ -1,0 +1,62 @@
+{
+  "pages": [
+    "pages/login/login",
+    "pages/index/index",
+    "pages/categoryService/categoryService",
+    "pages/order/order",
+    "pages/user/user",
+    "pages/register/register",
+    "pages/productsDetails/productsDetails",
+    "pages/orderList/orderList",
+    "pages/addAddress/addAddress",
+    "pages/address/address",
+    "pages/userface/userface",
+    "pages/account/account",
+    "pages/orderDetail/orderDetail",
+    "pages/userEdit/userEdit",
+    "pages/inforDetail/inforDetail",
+    "pages/empOrder/empOrder",
+    "pages/empuser/empuser",
+    "pages/accountDetail/accountDetail",
+    "pages/userAccountDetail/userAccountDetail"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "家政服务小程序",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#8d8d8d",
+    "selectedColor": "#FD5554",
+    "backgroundColor": "#fff",
+    "list": [
+      {
+        "iconPath": "./static/img/shouye_1.png",
+        "selectedIconPath": "./static/img/shouye.png",
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "iconPath": "./static/img/fenlei.png",
+        "selectedIconPath": "./static/img/fenlei_1.png",
+        "pagePath": "pages/categoryService/categoryService",
+        "text": "服务分类"
+      },
+      {
+        "iconPath": "./static/img/dingdan.png",
+        "selectedIconPath": "./static/img/dingdan_1.png",
+        "pagePath": "pages/order/order",
+        "text": "订单中心"
+      },
+      {
+        "iconPath": "./static/img/gerenzhongxin-zhihui.png",
+        "selectedIconPath": "./static/img/gerenzhongxin.png",
+        "pagePath": "pages/user/user",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

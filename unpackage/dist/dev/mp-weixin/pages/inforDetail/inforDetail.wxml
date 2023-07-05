@@ -1,0 +1,1 @@
+<view><view class="title">{{detail.title}}</view><view class="time">{{''+$root.f0+''}}</view><image class="img _img" src="{{detail.cover}}" alt></image><view class="content"><rich-text nodes="{{detail.content}}"></rich-text></view></view>

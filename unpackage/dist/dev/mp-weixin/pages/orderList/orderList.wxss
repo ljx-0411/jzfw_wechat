@@ -1,0 +1,47 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.forms {
+  padding: 30rpx 40rpx;
+}
+.forms .input {
+  width: 400rpx;
+  height: 40rpx;
+  margin-top: 20rpx;
+  border: 1rpx solid #dadbde;
+  padding: 12rpx 18rpx;
+  border-radius: 8rpx;
+  font-size: 28rpx;
+  color: #303133;
+}
+.forms .example-body {
+  background-color: #fff;
+  padding: 10px;
+}
+.forms .addcontent {
+  margin-left: 60rpx;
+  margin-top: -50rpx;
+}
+.forms .btn {
+  margin-top: 30rpx;
+  width: 100%;
+  height: 100rpx;
+  background-color: #ffffff;
+  color: #333;
+  text-align: center;
+  border-radius: 8rpx;
+}
+.uni-container {
+  height: 60rpx;
+}
+.uni-container .goods-carts {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  left: 0;
+  right: 0;
+  left: 0px;
+  right: 0px;
+  bottom: 0;
+}
+

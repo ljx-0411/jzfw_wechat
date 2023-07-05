@@ -1,0 +1,15 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.text {
+  line-height: 50rpx;
+}
+.save {
+  margin-top: 50rpx;
+  margin-left: 500rpx;
+  height: 80rpx;
+  width: 200rpx;
+  color: #333;
+  font-size: 28rpx;
+}
+

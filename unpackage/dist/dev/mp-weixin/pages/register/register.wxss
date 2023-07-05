@@ -1,0 +1,42 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.form.data-v-891c2434 {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+}
+.form .gender.data-v-891c2434 {
+  margin-left: 10rpx;
+}
+.form .register.data-v-891c2434 {
+  width: 100%;
+  padding: 50rpx 50rpx;
+}
+.form .register .uni-forms .input.data-v-891c2434 {
+  width: 500rpx;
+  height: 40rpx;
+  margin-top: 20rpx;
+  border: 1rpx solid #dadbde;
+  padding: 12rpx 18rpx;
+  border-radius: 8rpx;
+  font-size: 28rpx;
+  color: #303133;
+}
+.form .register .uni-forms .button.data-v-891c2434 {
+  margin-top: 100rpx;
+  width: 100%;
+  height: 100rpx;
+  background-color: #3c9cff;
+  color: #fff;
+  text-align: center;
+  border-radius: 8rpx;
+}
+.other.data-v-891c2434 {
+  margin-top: 2vh;
+  display: flex;
+  justify-content: center;
+  font-size: 30rpx;
+  color: #333;
+}
+

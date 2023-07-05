@@ -1,0 +1,10 @@
+
+.example-body {
+		padding: 10px;
+		padding-top: 0;
+}
+.btn{
+		margin-top: 40rpx;
+		background-color:#FD5554;
+}
+

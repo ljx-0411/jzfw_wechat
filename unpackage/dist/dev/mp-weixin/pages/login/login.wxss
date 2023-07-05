@@ -1,0 +1,52 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.box.data-v-b237504c {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.box .login .logins.data-v-b237504c {
+  text-align: center;
+  font-size: 30px;
+  color: #333333;
+}
+.box .login .inputbox.data-v-b237504c {
+  margin-top: 20rpx;
+  width: 600rpx;
+}
+.box .login .inputbox .input.data-v-b237504c {
+  height: 60rpx;
+  margin-top: 50rpx;
+  border: 1rpx solid #dadbde;
+  padding: 12rpx 18rpx;
+  border-radius: 8rpx;
+  font-size: 30rpx;
+  color: #303133;
+}
+.box .login .inputbox .uni-forms-item.data-v-b237504c {
+  width: 200rpx;
+  height: 100rpx;
+  margin: 20rpx auto;
+}
+.box .login .button.data-v-b237504c {
+  margin-top: 100rpx;
+  width: 100%;
+  height: 100rpx;
+  background-color: #3c9cff;
+  color: #fff;
+  text-align: center;
+  border-radius: 8rpx;
+}
+.box .login .other.data-v-b237504c {
+  margin-top: 2vh;
+  display: flex;
+  justify-content: center;
+  font-size: 30rpx;
+  color: #333;
+}
+.box .login .other.data-v-b237504c  text {
+  margin: 0 2vw;
+}
+

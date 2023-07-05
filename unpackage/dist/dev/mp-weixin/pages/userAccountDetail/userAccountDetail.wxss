@@ -1,0 +1,20 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.uni-card {
+  height: 110rpx;
+}
+.uni-card .content .money {
+  position: absolute;
+  right: 10rpx;
+  color: #2B7CD3;
+}
+.uni-card .content .money1 {
+  position: absolute;
+  right: 10rpx;
+  color: #FF201C;
+}
+.uni-card .content .type {
+  color: #333;
+}
+
